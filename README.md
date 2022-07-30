@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **theweb461@gmail.com**
 
-- ⚡ Fun fact **I was born in Chisinau, Moldova. I live in Germany now, and am able to speak 5 languages**
+- ⚡ Fun fact : **I was born in Chisinau, Moldova. I live in Germany now, and am able to speak 5 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
