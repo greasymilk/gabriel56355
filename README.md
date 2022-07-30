@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A programming enthusiast from Europe</h3>
 
-- 🔭 I’m currently working on [GMNM](https://github.com/gabriel56355/GMNM)
+#- 🔭 I’m currently working on [GMNM](https://github.com/gabriel56355/GMNM)
 
 - 🌱 I’m currently learning **Javascript**
 
