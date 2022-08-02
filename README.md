@@ -29,6 +29,6 @@
     <img src="https://skillicons.dev/icons?i=ps,pr,ae&theme=dark" />
 
 <div align="center" style="margin-top: 10px">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel56355&show_icons=true&locale=en" alt="gabriel56355" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel56355&" alt="gabriel56355" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel56355&show_icons=true&locale=en" alt="gabriel56355"&theme=dark /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel56355&" alt="gabriel56355"&theme=dark /></p>
 </div>
