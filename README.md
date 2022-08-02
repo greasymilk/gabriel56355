@@ -1,6 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=70E000&lines=Hi+!+I'm+Gabriel+%F0%9F%91%8B)](https://git.io/typing-svg)
+</div>
+
 <h3 align="center">A Hobby programmer from Europe who enjoys modding applications to do things they aren't meant to.</h3>
 
 - 🔭 I’m currently working on : [Anime/Manga Generator](https://github.com/gabriel56355/Anime-Manga-Generator)
