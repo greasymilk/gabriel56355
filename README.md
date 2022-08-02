@@ -30,5 +30,5 @@
 
 <div align="center" style="margin-top: 10px">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel56355&show_icons=true&locale=en&theme=github_dark" alt="gabriel56355" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel56355&theme=github_dark" alt="gabriel56355" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel56355&theme=tokyonight_duo" alt="gabriel56355" /></p>
 </div>
