@@ -14,7 +14,6 @@
 
 <h3 align="center">A Hobby programmer from Europe who enjoys modding applications to do things they aren't meant to.</h3>
 
-```
 - 🔭 I’m currently working on : [Anime/Manga Generator](https://github.com/gabriel56355/Anime-Manga-Generator)
 
 - 🌱 I’m currently learning : **Javascript**
@@ -22,8 +21,6 @@
 - 📫 How to reach me : **theweb461@gmail.com**
 
 - 📫 Discord : **GreasyMilk#0132**
-
-```
 
 - ⚡ Fun fact **I was born in Chisinau, Moldova. I live in Germany now, and am able to speak 5 languages**
 <h3 align="center">Languages/Runtimes</h3>
