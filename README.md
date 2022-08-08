@@ -2,6 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=70E000&lines=Hi!+I'm+Gabriel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+```
+
+ ▄▄ •  ▄▄▄· ▄▄▄▄· ▄▄▄  ▪  ▄▄▄ .▄▄▌  
+▐█ ▀ ▪▐█ ▀█ ▐█ ▀█▪▀▄ █·██ ▀▄.▀·██•  
+▄█ ▀█▄▄█▀▀█ ▐█▀▀█▄▐▀▀▄ ▐█·▐▀▀▪▄██▪  
+▐█▄▪▐█▐█ ▪▐▌██▄▪▐█▐█•█▌▐█▌▐█▄▄▌▐█▌▐▌
+·▀▀▀▀  ▀  ▀ ·▀▀▀▀ .▀  ▀▀▀▀ ▀▀▀ .▀▀▀ 
+
+```
+
 <h3 align="center">A Hobby programmer from Europe who enjoys modding applications to do things they aren't meant to.</h3>
 
 - 🔭 I’m currently working on : [Anime/Manga Generator](https://github.com/gabriel56355/Anime-Manga-Generator)
