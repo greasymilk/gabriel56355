@@ -20,7 +20,7 @@
 
 - 📫 How to reach me : **theweb461@gmail.com**
 
-- 📫 Discord : **GreasyMilk#0132**
+- 📫 Discord : **gabrielbwo**
 
 - ⚡ Fun fact **I was born in Chisinau, Moldova.**
 <h3 align="center">Languages/Runtimes</h3>
